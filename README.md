@@ -1,7 +1,7 @@
 Voiceprint Portal SDK
 =====================
 
-Welcome to the GitHub repository for VoiceIt Technologies Voiceprint Portal.
+Welcome to the GitHub repository for VoiceIt Technologies Voiceprint Portal SDK.
 
 We welcome you to the premiere Voiceprint Portal on the Internet. We published 
 the first Voiceprint Portal in 2007. Since that time, we have made it more 
