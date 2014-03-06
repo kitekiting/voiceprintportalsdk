@@ -12,6 +12,13 @@ This repository provides instructions as well as coding examples, so you can
 integrate the Voiceprint Portal REST API calls into your websites, mobile apps, 
 and IVR systems. 
 
+To demo the Voiceprint Portal REST API calls use the folling URL:
+https://siv.voiceprintportal.com/sivservice
 
+=====================
 
+README.md - This file.
+VoiceprintPortalSDKv1.1.z.pdf - Complete REST API Users Guide
+siv.js - Javascript Wrapper for REST API Calls.
+iOSRestAPIDemo.zip - Complete iOS application for iPhone, iPad, and iPod.
 
